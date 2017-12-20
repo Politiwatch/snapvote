@@ -6,6 +6,7 @@ SnapVote will be developed in stages.
 Objectives:
 * Drive voter turnout in local elections
 * Make voting easier
+* Lessen the gap between organizations and their followers.
 
 Methodology:
 * Provide a centralized dashboard (`Election Dashboard`) where the user can see all the elections that are coming up for them and associated information.
@@ -20,7 +21,7 @@ User flow:
 * The user is shown an election dashboard on the left and a communication dashboard on the right.
   - _election dashboard:_ details every election that the user can participate in, with metadata.
   - _communication dashboard:_ messages put out by mission-driven organizations (including campaigns) that the user follows.
-    - Also visible is a 'who to follow' page, which lists various mission-driven organizations (like NRA, NYC Democrats, or ACLU) that the user can follow. If the user follows such an organization, the candidates that organization endorses on VoteSnap will be visible next to that politician on the voter dashboard and their communications (or targeted communications) will appear in the communication dashboard.
+    * Also visible is a 'who to follow' page, which lists various mission-driven organizations (like NRA, NYC Democrats, or ACLU) that the user can follow. If the user follows such an organization, the candidates that organization endorses on VoteSnap will be visible next to that politician on the voter dashboard and their communications (or targeted communications) will appear in the communication dashboard.
 
 Election dashboard:
 * _The user sees every election they are eligible to participate in._ (This information is currently hard to get; bring out the vote!)
