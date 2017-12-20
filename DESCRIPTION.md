@@ -1,6 +1,6 @@
 # Product Description
 
-SnapVote will be developed in stages.
+VoteSnap will be developed in stages.
 
 ## Stage 1
 Objectives:
