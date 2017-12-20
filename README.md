@@ -1,4 +1,4 @@
-# SnapVote
+# VoteSnap
 Making voter information more accessible
 
 -----
